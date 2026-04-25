@@ -1,0 +1,21 @@
+*Samanantar Corpus*
+
+The Dataset BPCC/samanantar is webscraped by a research group from IIT Madras and annotated and verified by locals.
+
+*Mitrasamgraha*
+
+While the MitraSamgraha text was released to the public by a professor at IIT KGP and his team.
+
+*AMBUDA DCS*
+
+This was originally developed by Oliver Hellwig. It is a massive corpus of over 600,000 sentences (and millions of tokens) that were semi-automatically annotated over several years.
+
+Ambuda has a growing network of volunteers - ranging from students to expert scholars - who use the platform to proofread and correct the machine-generated parses.
+Vidyut Engine: Ambuda uses its own open-source software, Vidyut (specifically vidyut-cheda), to provide initial “guesses” for word splitting and morphology. Volunteers then review these guesses to ensure accuracy.
+Volunteers must first identify where sandhi (phonetic joining) has occurred and split the string into its base words.
+Each word is tagged with specific attributes:
+Subanta (Nouns/Adjectives): Gender (Linga), Case (Vibhakti), and Number (Vacana).
+Tiṅanta (Verbs): Person (Purusha), Number (Vacana), Tense/Mood (Lakara), and Voice (Prayoga).
+
+All this data is provided on their github at https://github.com/ambuda-org/dcs
+The parsed data is included on our github itself.
