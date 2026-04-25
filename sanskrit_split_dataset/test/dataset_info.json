@@ -1,0 +1,32 @@
+{
+  "citation": "",
+  "description": "",
+  "features": {
+    "tgt": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "src": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "src_lang": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "tgt_lang": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "segmented_sanskrit": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "segmented_devanagari": {
+      "dtype": "string",
+      "_type": "Value"
+    }
+  },
+  "homepage": "",
+  "license": ""
+}
